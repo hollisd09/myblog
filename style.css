@@ -1,0 +1,77 @@
+h2.nice {
+  font-family: Arial, Geneva, sans-serif;
+  color: lightblue;
+  text-align: center;  
+}
+
+a.website {
+  text-decoration: none;
+  color: #223B4D;
+}
+
+a.website:hover {
+  color: lightblue;
+}
+
+a.website:active {
+  color: #DBFF70;
+}
+
+h3.heading_three_color {
+  font-family: Arial, Geneva, sans-serif;
+  color: lightblue;
+}
+
+div#intro {
+  text-align: center;
+}
+
+div#article {
+  text-align: center;
+}
+
+p.cute_paragraph {
+  border: 1px dashed lightblue;
+  border-radius: 10px;
+  text-align: justify;
+  padding: 1em;
+}
+
+p.footer {
+  text-align: center;
+  }
+
+div#all {
+  width: 40%;
+  margin: 0 auto 0 auto;
+}
+
+header > #navigation {
+  background-color: #223B4D;
+  height: 30px;
+  width: 100%;
+  margin: 0 0 10px 0;
+  text-align: center;
+}
+
+ul li {
+  color: white;
+  display: inline;
+  list-style-type: none;
+  margin: 0 1em 1em 1em;
+  font-family: Arial, Geneva, sans-serif;
+  cursor: pointer;
+  text-align: center;
+}
+
+li:hover {
+  color: lightblue;
+}
+
+li:active {
+  color: #DBFF70;
+}
+
+body {
+  font-family: Georgia, serif;
+}
